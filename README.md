@@ -130,15 +130,6 @@ auth-app-gcp/
 └── package.json          # Project dependencies and scripts
 ```
 
-## Student Information Displayed
-
-The dashboard displays the following student details:
-- **Name:** Nauman Tanwir
-- **Student ID:** 500237447
-- **Course:** Azure Architect Technologies
-- **Course ID:** CLOD2005
-- **Instructor:** Prof. Sergio Loza
-
 ## Security Features
 
 - Protected routes using React Router
